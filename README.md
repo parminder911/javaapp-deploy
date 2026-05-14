@@ -37,6 +37,23 @@ Sample Java Applicaiton V3.6.6
 
 -----
 mvn package
+<img width="998" height="266" alt="image" src="https://github.com/user-attachments/assets/03a1da78-edbd-4ae6-bc5a-3e37e927a002" />
+
+------
+mvn test 
+<img width="643" height="322" alt="image" src="https://github.com/user-attachments/assets/2ab90cf1-f4e9-4102-8565-875f960a403b" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
